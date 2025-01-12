@@ -1,6 +1,6 @@
 {
   "name": "Inferno",
-  "version_number": "1.7.7",
+  "version_number": "1.7.8",
   "website_url": "https://docs.google.com/document/d/1tX11jTpdX8W70WbNdO361NXKUmel70JgaigBIVvaLhs",
   "description": "A hard unique difficulty that changes enemy skills, AI, scaling and more! Features 6 Mastery Skins. Small patch.",
   "dependencies": [
@@ -8,7 +8,7 @@
     "RiskofThunder-R2API_Difficulty-1.1.2",
     "RiskofThunder-R2API_ContentManagement-1.0.6",
     "RiskofThunder-R2API_Language-1.0.1",
-    "RiskofThunder-R2API_RecalculateStats-1.4.0",
+    "RiskofThunder-R2API_RecalculateStats-1.5.0",
     "RiskofThunder-R2API_Items-1.0.4",
     "Moffein-AI_Blacklist-1.6.4",
     "Rune580-Risk_Of_Options-2.8.2",

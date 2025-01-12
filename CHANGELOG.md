@@ -1,3 +1,6 @@
+# 1.7.8 Patch Notes
+- read 1.7.4 patch notes
+
 # 1.7.7 Patch Notes
 - ![:p_hi:](https://raw.githubusercontent.com/prodzpod/StageAesthetic/refs/heads/main/p_hi.png)
 - I keep promises
