@@ -1,6 +1,6 @@
 {
   "name": "Inferno",
-  "version_number": "1.7.7",
+  "version_number": "1.7.8",
   "website_url": "https://docs.google.com/document/d/1tX11jTpdX8W70WbNdO361NXKUmel70JgaigBIVvaLhs",
   "description": "A hard unique difficulty that changes enemy skills, AI, scaling and more! Features 6 Mastery Skins. Small patch.",
   "dependencies": [

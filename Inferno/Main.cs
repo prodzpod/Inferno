@@ -43,7 +43,7 @@ namespace Inferno
 
         public const string PluginAuthor = "HIFU";
         public const string PluginName = "Inferno";
-        public const string PluginVersion = "1.7.7";
+        public const string PluginVersion = "1.7.8";
 
         public static DifficultyDef InfernoDiffDef;
 
@@ -155,7 +155,7 @@ namespace Inferno
         {
             Main.InfernoLogger = base.Logger;
 
-            On.RoR2.Networking.NetworkManagerSystemSteam.OnClientConnect += (s, u, t) => { };
+            // On.RoR2.Networking.NetworkManagerSystemSteam.OnClientConnect += (s, u, t) => { }; // bruh
 
             EclipseExtendedLoaded = false; /*BepInEx.Bootstrap.Chainloader.PluginInfos.ContainsKey("com.groovesalad.EclipseExtended");*/
 

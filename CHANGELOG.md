@@ -1,3 +1,6 @@
+# 1.7.8 Patch Notes
+- ![fixed multiplayer](https://raw.githubusercontent.com/prodzpod/Inferno/refs/heads/master/mf.png)
+
 # 1.7.7 Patch Notes
 - ![:p_hi:](https://raw.githubusercontent.com/prodzpod/StageAesthetic/refs/heads/main/p_hi.png)
 - I keep promises
