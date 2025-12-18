@@ -59,7 +59,7 @@ namespace Inferno.Eclipse
             var content = characterSelectUIMain.Find("SafeArea/RightHandPanel/RuleVerticalLayout/RuleBookViewerVertical/Viewport/Content");
             var firstRuleBookCategoryPrefab = content.GetChild(1);
             var choiceContainer = firstRuleBookCategoryPrefab.Find("StripContainer/RuleStripPrefab(Clone)/ScrollChoiceContainer/ChoiceContainer");
-            var choice = choiceContainer.GetChild(0);
+            var choice = choiceContainer.GetChild(0); // TODO: this line is broken
             var choiceName = choice.name;
             Main.InfernoLogger.LogError(choiceName);
             if (choiceName.ToLower().Contains("eclipse"))
